@@ -27,6 +27,8 @@ div.jumbotron  p {
     border-color:black;
 }
 #d20 {
+    position: relative;
+    left: 25%;
     text-align: center;
     height:100px;
     width: 100px;
@@ -35,10 +37,21 @@ div.jumbotron  p {
     height:100px;
     width: 100px;
 }
+#wins {
+    padding-left:20px;
+}
+#guesses{
+    padding-left:20px;
+}
+#guessesLeft{
+    padding-left:20px;
+}
 #letter{
     display:inline-block;
 }
-
+#infoBar {
+    padding:0 0 0 10px;
+}
 
 .letterz{
     color:white;
