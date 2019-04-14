@@ -1,2 +1,2 @@
 # Word-Guess-Game
-This is a browser game powered by Javascript. The user will be able to use a limited number of guesses to see if letters are present inside the word. 
+This is a browser game powered by vanilla Javascript and is my first application built with javascript! In this Dungeons and Dragons themed game, the user will be able to use a limited number of guesses to see if letters are present inside the word. In order to incorporate all of the Dungeons and Dragons monsters in to the possible solutions, I have added an API call to fetch a random monster as a possible answer. If you would like to use this as a random monster generator (or are a cheater) check the console.log in with the inspect tool.
